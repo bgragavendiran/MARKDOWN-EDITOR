@@ -56,5 +56,8 @@ You are looking at team of Fullstack developers who have done successful product
 4. Multichain Integration [`Apr-Jun2023`]
 5. Fullscale Product Deployment [`Jul 2023`]
 
-
+## Insights on the problem statement and the market:
 We have done an extensive [`competitor analysis`](https://docs.google.com/spreadsheets/d/1SU4RYuUHxO9ZEbqoo4qPYw_ya1Z4koNcb8D1bioD8JY/edit?usp=sharing&resourcekey=0-pJGXRAD9IgB56hgTtTcmbQ) and market study to be certain that there are no platforms in the market that capitalizes on **Dstream's USP** i.e. **Videos as NFT's with monetization carryover trait in a video sharing platform which helps in building a token gated community.** Dstream has a web2 extension which will help users connect with us from the web2 video sharing/streaming sites they frequent, There by having a greater potential to reach a bigger chunk of the market overcrowded by video sharing platforms within the Web2 space.
+
+# Have you validated the market? If so, how?
+Yes, we have done an extensive  [`competitor analysis`](https://docs.google.com/spreadsheets/d/1SU4RYuUHxO9ZEbqoo4qPYw_ya1Z4koNcb8D1bioD8JY/edit?usp=sharing&resourcekey=0-pJGXRAD9IgB56hgTtTcmbQ). We know there are multiple players trying to capitalize on the same market space as in decentralizing web2.0 video sharing/streaming platforms but how Dstream differs from the existing players is that **Dstream's USP focuses on making a creators efforts into something that  is of value which can be traded for and traded by the creators themselves by bringing in a level of authenticity and value unlike most platforms.**
