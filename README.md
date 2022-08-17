@@ -5,7 +5,7 @@ D-stream
 ## `Dstream` is a `Web3 Ecosystem` which enables **people to buy and sell their digital video assets as NFT's in a video streaming platform along with the royalty and monetization benefits that entails the generated content** ,`Dstream` provides a way for Tokens of different aggregations to be interfaced to create niche premium communities within the Web3Space.
 
 # Relevant Links *
-> [`Dstream PitchDeck.`] (https://www.canva.com/design/DAE8j-WWtQM/AulITKrGgr7YF4sPW_LuLw/view?utm_content=DAE8j-WWtQM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+> [`Dstream PitchDeck.`](https://www.canva.com/design/DAE8j-WWtQM/AulITKrGgr7YF4sPW_LuLw/view?utm_content=DAE8j-WWtQM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 > [`Prototype App.`](https://d-stream.vercel.app/)
 
 # Project Details *
