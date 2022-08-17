@@ -84,6 +84,7 @@ Our Direct Competitors are as follows:
 2. Lbry
 3. Odysee
 4. cos.tv
+
 Our Detailed [`competitor analysis`](https://docs.google.com/spreadsheets/d/1SU4RYuUHxO9ZEbqoo4qPYw_ya1Z4koNcb8D1bioD8JY/edit?usp=sharing&resourcekey=0-pJGXRAD9IgB56hgTtTcmbQ)  and [`Competitor Audit report`](https://docs.google.com/document/d/1CPN2e1csleQsrd5PEEWibdKuxjJDkzWeTQxKCQLAJDM/edit?usp=sharing)
 
 # What insights do you have about the problem and the market that none of your peers do?
