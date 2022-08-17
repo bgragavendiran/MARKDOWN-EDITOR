@@ -30,7 +30,8 @@ Dstream is a Web3 Ecosystem which enables people to buy and sell their digital v
 * Created a [`PYPI package for Livepeer in Python`](https://pypi.org/project/LivePeerSDK/)
 
 # Future Scope of action:
-* Building `DSTREAM as a product`.
+* Multichain integration.
+* Ad based Incentivization
 * Scale up as a [`Web3 Startup.`](https://heptre.com/)
 
 # How many months have you worked on this project? * 4
