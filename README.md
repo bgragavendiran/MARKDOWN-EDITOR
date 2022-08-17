@@ -37,16 +37,14 @@ Dstream is a Web3 Ecosystem which enables people to buy and sell their digital v
 # Product Stage * MVP
 # Goals and Milestones *
 # Milestones.
-#### 1. Deploy Tokenomics within D-stream to ensure and maintain supply of DST. (Sept-2022)
-#### 2. Add NFT gated Community feature. (Sept-2022)
-#### 3. On board beta-Content creators as customers. (Oct-2022)
-#### 4. Build a commmunity for Dstream. (Nov-2022)
-#### 5. Onboard investors Go live on DEC-2022
+#### 1. Implement Tokenomics within D-stream to ensure and maintain supply of DST. (Sept-2022)
+#### 2. Create Dstream Web Extension
+#### 3. Add NFT gated Community feature. (Sept-2022)
+#### 4. On board beta-Content creators as customers. (Oct-2022)
+#### 5. Build a commmunity for Dstream. (Nov-2022)
 
 # Has your project received any recognition? *
-https://devfolio.co/projects/dstream-ecosystem-1e38
-
-### Winners at Ethernals 2022. 
+### [`Winners at Ethernals 2022`](https://devfolio.co/projects/dstream-ecosystem-1e38). 
 ### One of the top 4 teams.
 
 # Share a link to your Product demo
