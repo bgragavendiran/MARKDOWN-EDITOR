@@ -45,7 +45,7 @@ Dstream is a Web3 Ecosystem which enables people to buy and sell their digital v
 
 # Has your project received any recognition? *
 ### [`Winners at Ethernals 2022`](https://devfolio.co/projects/dstream-ecosystem-1e38). 
-### One of the top 4 teams.
+### `One of the top 4 teams. LivePeer Bounty Winners`
 
 # Share a link to your Product demo
 https://d-stream.vercel.app/
@@ -72,7 +72,7 @@ There are multiple class of stakeholders in Dstream
 
 # Have you validated the market? If so, how?
 # Market Validation
-Yes, we have done an extensive  [`competitor analysis`](https://docs.google.com/spreadsheets/d/1SU4RYuUHxO9ZEbqoo4qPYw_ya1Z4koNcb8D1bioD8JY/edit?usp=sharing&resourcekey=0-pJGXRAD9IgB56hgTtTcmbQ). We know there are multiple players trying to capitalize on the same market space as in decentralizing web2.0 video sharing/streaming platforms but how Dstream differs from the existing players is that **Dstream's USP focuses on making a creator's efforts into something that  is of value which can be traded for and traded by the creators themselves by bringing in a level of authenticity and value unlike most platforms.**
+Yes, we have done an extensive  [`competitor analysis`](https://docs.google.com/spreadsheets/d/1SU4RYuUHxO9ZEbqoo4qPYw_ya1Z4koNcb8D1bioD8JY/edit?usp=sharing&resourcekey=0-pJGXRAD9IgB56hgTtTcmbQ). We know there are multiple players trying to capitalize on the same market space as in decentralizing web2.0 video sharing/streaming platforms but how Dstream differs from the existing players is that **Dstream's USP focuses on making a creator's efforts into something that  is of value which can be traded for and traded by the creators themselves by bringing in a level of authenticity and value, unlike most platforms.**
 
 # Any traction or early users? Tell us about it
 # Early Adopters
@@ -83,8 +83,7 @@ Our Direct Competitors are as follows:
 1. Dtube
 2. Lbry
 3. Odysee
-4. Streamanity
-Our  [`competitor analysis`](https://docs.google.com/spreadsheets/d/1SU4RYuUHxO9ZEbqoo4qPYw_ya1Z4koNcb8D1bioD8JY/edit?usp=sharing&resourcekey=0-pJGXRAD9IgB56hgTtTcmbQ)  and [`Audit report`](https://docs.google.com/document/d/1CPN2e1csleQsrd5PEEWibdKuxjJDkzWeTQxKCQLAJDM/edit?usp=sharing)
+Our Detailed [`competitor analysis`](https://docs.google.com/spreadsheets/d/1SU4RYuUHxO9ZEbqoo4qPYw_ya1Z4koNcb8D1bioD8JY/edit?usp=sharing&resourcekey=0-pJGXRAD9IgB56hgTtTcmbQ)  and [`Competitor Audit report`](https://docs.google.com/document/d/1CPN2e1csleQsrd5PEEWibdKuxjJDkzWeTQxKCQLAJDM/edit?usp=sharing)
 
 # What insights do you have about the problem and the market that none of your peers do?
 ## Insights on the problem statement and the market:
